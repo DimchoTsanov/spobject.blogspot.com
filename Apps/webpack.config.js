@@ -19,6 +19,7 @@ module.exports = {
     path: path.resolve(__dirname, './assets/js'),
     filename: 'instagram.fmi.js',
   },
+  // --- Enable sourcemaps for debugging webpack's output.
   plugins: [
     new webpack.SourceMapDevToolPlugin({
       filename: 'instagram.fmi.js.map',
@@ -26,8 +27,8 @@ module.exports = {
       include: ['instagram.fmi.js']
     })
   ],
-  // Enable sourcemaps for debugging webpack's output.
   devtool: "source-map",
+  // --- end of Enable sourcemaps ....
   resolve: {
     // Add '.ts' and '.tsx' as resolvable extensions.
     extensions: [".ts", ".tsx", ".js", ".json"]
