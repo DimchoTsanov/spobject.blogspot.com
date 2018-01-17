@@ -9,25 +9,25 @@ Here is the code samples and the notes about my presentation in the FMI (Faculty
 What is imporatnt to conside when we start building mobile apps.
 
 Type of Apps:
-> Native
-> Web
-> Hybrid 
+- [ ] Native
+- [ ] Web
+- [ ] Hybrid 
 
 Why build a mobile app vs a web app?
-> You are in the Store. This allows users to find us.
-> Push notifications
-> Sales strategy \ Marketing (Users spend more time on apps than they do on the web)
-> Otions for Revenue (Ad)
+- [ ] You are in the Store. This allows users to find us.
+- [ ] Push notifications
+- [ ] Sales strategy \ Marketing (Users spend more time on apps than they do on the web)
+- [ ] Otions for Revenue (Ad)
 
 Advantages of native apps
-> Faster\More Responsive
-> Easy access to camera, microphone, compass, accelerometer
-> Alerts\notifications
-> UX match the vendor standards
+- [ ] Faster\More Responsive
+- [ ] Easy access to camera, microphone, compass, accelerometer
+- [ ] Alerts\notifications
+- [ ] UX match the vendor standards
 
 Disadvantages of native apps
-> iSO + Android = 2 source codes
-> Time for development 
+- [ ] iSO + Android = 2 source codes
+- [ ] Time for development 
 
 # Code sample  
 How to run the sample:
