@@ -1,10 +1,18 @@
-﻿# Web View и хибридни мобилни приложения 
+﻿# Using WebView in native hybrid application 
 
-![Видове Приложения](./assets/info/why.png)
+Here is the code samples and the notes about my presentation in the FMI (Faculty of Mathematics and Informatics in Sofia University) course about [Swift]: https://github.com/SwiftFMI/iOS_2017_2018
 
-	sudo gem install cocoapods
+# The big picture 
+![App Types](./assets/info/why.png)
+
+# App types and specifics 
+What is imporatnt to conside when we start
+
+# Code sample  
+
+
+	npm i
 	
-
 //Development
 webpack
 webpack-dev-server
